@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">🖤 DARK HACKER BUGGY — THE CHAOS ENGINEER 🗡️</h1>
 
-<!--
-**falstrixlab/falstrixlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/6g4KJ8p.gif" width="260" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><em>
+"I don't fear bugs. Bugs fear me."
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🕳️ Who Am I?
+
+- 🖤 Backend Engineer — *lives in the shadows of the server room*  
+- ⚙️ Familiar with: **C#, ASP.NET Core, Golang, PHP, Python**  
+- ☕ Code runs on caffeine, errors run from fear  
+- 🧠 Obsessed with backend logic, distributed systems, APIs, & microservices  
+- 🏴‍☠️ A disciple of Buggy the Clown with hacker energy  
+
+---
+
+## 🖤 Hacker Terminal
+```bash
+ ██████╗ ██╗      ██████╗ ██╗    ██╗███╗   ██╗
+██╔═══╗  ██║     ██╔═══██╗██║    ██║████╗  ██║
+██║      ██║     ██║   ██║██║ █╗ ██║██╔██╗ ██║
+██║      ██║     ██║   ██║██║███╗██║██║╚██╗██║
+╚██████╔╝███████╗╚██████╔╝╚███╔███╔╝██║ ╚████║
+ ╚═════╝ ╚══════╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝
+ 
+
+$ user.scan
+> Backend_Engineer v2.0 [C#, Go, PHP, Python]
+
+$ system.coffee
+> Loading caffeine.dll ... OK
+
+$ execute "bara_bara_no_mi --split-bugs"
+> Splitting... Bugs eliminated.
