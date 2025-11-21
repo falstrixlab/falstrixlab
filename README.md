@@ -1,4 +1,4 @@
-<h1 align="center">🖤 DARK HACKER BUGGY — THE CHAOS ENGINEER 🗡️</h1>
+<h1 align="center">🖤 BUGGY THE CLOWN — THE CHAOS ENGINEER 🗡️</h1>
 
 <p align="center"><em>
 "I don't fear bugs. Bugs fear me."
